@@ -63,11 +63,11 @@ The Random Forest model provided the best performance in predicting employee att
 
 ## 📜 Certificate
 
-![Google Advanced Data Analytics Certificate](documents/Certificate.pdf)
+![Google Advanced Data Analytics Certificate](Certificate.pdf)
 
 ## 📎 Executive Summary
 
-[Download Executive Summary](documents/Executive_Summary.pdf)
+[Executive Summary](documents/executive_report.pdf)
 
 ## Summary Report
 
