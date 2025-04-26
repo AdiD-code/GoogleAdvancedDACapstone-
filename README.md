@@ -72,4 +72,4 @@ The Random Forest model provided the best performance in predicting employee att
 ## Summary Report
 
 Summary report made with inclusion of Data Analytics Principles like PACE (Plan, Analyze, Construct, Execute)
-[Download Summary Report](documents/PACE-strategy%20document.pdf)
+[Summary Report](documents/PACE-strategy%20document.pdf)
