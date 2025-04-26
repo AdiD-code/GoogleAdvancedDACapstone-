@@ -1,7 +1,5 @@
 # Google Advanced Data Analytics Capstone – Employee Attrition Analysis
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ## Overview
 
 This repository contains the capstone project completed as part of the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/learn/google-advanced-data-analytics-capstone). The project focuses on analyzing employee attrition data for a fictional company, Salifort Motors, to identify key factors contributing to employee turnover and to develop predictive models for attrition.
@@ -74,4 +72,4 @@ The Random Forest model provided the best performance in predicting employee att
 ## Summary Report
 
 Summary report made with inclusion of Data Analytics Principles like PACE (Plan, Analyze, Construct, Execute)
-[Download Summary Report](documents/PACE-strategy%document.pdf)
+[Download Summary Report](documents/PACE-strategy%20document.pdf)
